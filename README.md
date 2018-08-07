@@ -1,3 +1,9 @@
+# Installing the package
+This package can be installed directly from GitHub using the devtools package:
+`devtools::install_github("ctloftin/YahooFantasyAPI")`
+
+Or you can clone the repo to your local computer and build it locally.
+
 # YahooFantasyAPI
 This R package contains functions for using the Yahoo FantasySports API. In order to use the API, you'll need to go through a few steps for setting up your Yahoo account & app as well as specifying which permissions your app will have. Creating an app is necessary for getting your key and secret which have to be used for accessing the API.
 
