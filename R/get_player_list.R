@@ -22,7 +22,8 @@ get_player_list <- function(gameid = "380", leagueid = NULL, numPlayers = 200) {
     response$league$players$.attrs <- NULL
 
     response <- plyr::ldply(response$league$players, function(x) {
-      data.frame(name = x$name$full)
+      data.frame(name = x$name$full,
+                 team = toupper(x$editorial_team_abbr))
     })
     response$.id <- NULL
     playerlist <- rbind(playerlist, response)
