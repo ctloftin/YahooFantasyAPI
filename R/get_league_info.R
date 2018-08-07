@@ -11,6 +11,6 @@ get_league_info <- function(gameid = "380", leagueid = NULL) {
                  httr::add_headers(Authorization = paste0("Bearer ", fantasyEnv$token)))
   check_request(response)
   response <- XML::xmlToDataFrame(XML::xmlParse(response))
-  t[] <- lapply(t, as.character)
+  response[] <- lapply(response, as.character)
   return(response)
 }

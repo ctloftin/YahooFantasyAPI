@@ -21,6 +21,6 @@ get_league_standings <- function(gameid = "380", leagueid = NULL) {
                       points_against = x$team_standings$points_against))
   })
   response$.id <- NULL
-  t[] <- lapply(t, as.character)
+  response[] <- lapply(response, as.character)
   return(response)
 }

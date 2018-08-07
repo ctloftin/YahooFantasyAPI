@@ -27,6 +27,6 @@ get_player_list <- function(gameid = "380", leagueid = NULL, numPlayers = 200) {
     response$.id <- NULL
     playerlist <- rbind(playerlist, response)
   }
-  t[] <- lapply(t, as.character)
+  response[] <- lapply(response, as.character)
   return(playerlist)
 }
