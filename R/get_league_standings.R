@@ -1,8 +1,12 @@
 #' @export
-get_league_standings <- function(leagueid = "121038") {
+get_league_standings <- function(gameid = "380", leagueid = NULL) {
   check_token()
 
-  url <- paste0("https://fantasysports.yahooapis.com/fantasy/v2/league/380.l.", leagueid, "/standings")
+  if(is.null(leagueid)) {
+    stop("Must pass in a leagueid")
+  }
+
+  url <- paste0("https://fantasysports.yahooapis.com/fantasy/v2/league/", gameid, ".l.", leagueid, "/standings")
   response <- httr::GET(url, httr::content_type("applilcation/xml"),
                  httr::add_headers(Authorization = paste0("Bearer ", fantasyEnv$token)))
   response <- httr::content(response)
@@ -17,5 +21,6 @@ get_league_standings <- function(leagueid = "121038") {
                       points_against = x$team_standings$points_against))
   })
   response$.id <- NULL
+  t[] <- lapply(t, as.character)
   return(response)
 }
