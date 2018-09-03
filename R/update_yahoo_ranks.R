@@ -11,8 +11,8 @@ update_yahoo_ranks <- function(gameid = "380", leagueid = NULL, numPlayers = 300
   colnames(ranks) <- gsub("X", "", colnames(ranks))
   colnames(ranks) <- gsub("\\.", "/", colnames(ranks))
 
-  ranks <- merge(ranks, plist, by = c("Player", "Team", "Pos"), all.x = TRUE)
-  nonunique <- grep("X", colnames(ranks))
+  ranks <- merge(ranks, plist, by = c("Player", "Team", "Pos"), all = TRUE)
+  nonunique <- grep("X", toupper(colnames(ranks)))
   if(length(nonunique) > 0) {
     ranks <- ranks[,-nonunique]
   }

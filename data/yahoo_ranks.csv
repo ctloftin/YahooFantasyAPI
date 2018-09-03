@@ -1,301 +1,320 @@
-"Player","Team","Pos","08/08"
-"Le'Veon Bell","PIT","RB",1
-"Todd Gurley II","LAR","RB",2
-"Antonio Brown","PIT","WR",3
-"David Johnson","ARI","RB",4
-"Ezekiel Elliott","DAL","RB",5
-"DeAndre Hopkins","HOU","WR",6
-"Alvin Kamara","NO","RB",7
-"Odell Beckham Jr.","NYG","WR",8
-"Julio Jones","ATL","WR",9
-"Kareem Hunt","KC","RB",10
-"Saquon Barkley","NYG","RB",11
-"Michael Thomas","NO","WR",12
-"Keenan Allen","LAC","WR",13
-"Davante Adams","GB","WR",14
-"Melvin Gordon","LAC","RB",15
-"A.J. Green","CIN","WR",16
-"Dalvin Cook","MIN","RB",17
-"Doug Baldwin","SEA","WR",18
-"Mike Evans","TB","WR",19
-"Leonard Fournette","JAX","RB",20
-"Rob Gronkowski","NE","TE",21
-"Devonta Freeman","ATL","RB",22
-"Travis Kelce","KC","TE",23
-"LeSean McCoy","BUF","RB",24
-"Adam Thielen","MIN","WR",25
-"Tyreek Hill","KC","WR",26
-"Jerick McKinnon","SF","RB",27
-"Zach Ertz","PHI","TE",28
-"Stefon Diggs","MIN","WR",29
-"Christian McCaffrey","CAR","RB",30
-"Jordan Howard","CHI","RB",31
-"Alshon Jeffery","PHI","WR",32
-"Kenyan Drake","MIA","RB",33
-"Josh Gordon","CLE","WR",34
-"Aaron Rodgers","GB","QB",35
-"Larry Fitzgerald","ARI","WR",36
-"Demaryius Thomas","DEN","WR",37
-"Amari Cooper","OAK","WR",38
-"Golden Tate","DET","WR",39
-"T.Y. Hilton","IND","WR",40
-"Joe Mixon","CIN","RB",41
-"JuJu Smith-Schuster","PIT","WR",42
-"Russell Wilson","SEA","QB",43
-"Tom Brady","NE","QB",44
-"Derrius Guice","WAS","RB",45
-"Allen Robinson II","CHI","WR",46
-"Alex Collins","BAL","RB",47
-"Deshaun Watson","HOU","QB",48
-"Jarvis Landry","CLE","WR",49
-"Jay Ajayi","PHI","RB",50
-"Rashaad Penny","SEA","RB",51
-"Brandin Cooks","LAR","WR",52
-"Evan Engram","NYG","TE",53
-"Derrick Henry","TEN","RB",54
-"Mark Ingram","NO","RB",55
-"Robert Woods","LAR","WR",56
-"Marvin Jones Jr.","DET","WR",57
-"Dion Lewis","TEN","RB",58
-"Lamar Miller","HOU","RB",59
-"Drew Brees","NO","QB",60
-"Greg Olsen","CAR","TE",61
-"Ronald Jones II","TB","RB",62
-"Michael Crabtree","BAL","WR",63
-"Cam Newton","CAR","QB",64
-"Sony Michel","NE","RB",65
-"Jimmy Graham","GB","TE",66
-"Tevin Coleman","ATL","RB",67
-"Jimmy Garoppolo","SF","QB",68
-"Corey Davis","TEN","WR",69
-"Rex Burkhead","NE","RB",70
-"Pierre Garcon","SF","WR",71
-"Carson Wentz","PHI","QB",72
-"Jamison Crowder","WAS","WR",73
-"Devin Funchess","CAR","WR",74
-"Chris Hogan","NE","WR",75
-"Kirk Cousins","MIN","QB",76
-"Aaron Jones","GB","RB",77
-"Marlon Mack","IND","RB",78
-"Will Fuller V","HOU","WR",79
-"Matthew Stafford","DET","QB",80
-"Cooper Kupp","LAR","WR",81
-"Chris Thompson","WAS","RB",82
-"Kyle Rudolph","MIN","TE",83
-"Royce Freeman","DEN","RB",84
-"Delanie Walker","TEN","TE",85
-"Emmanuel Sanders","DEN","WR",86
-"Jared Goff","LAR","QB",87
-"Tarik Cohen","CHI","RB",88
-"Robby Anderson","NYJ","WR",89
-"Jordy Nelson","OAK","WR",90
-"Sammy Watkins","KC","WR",91
-"C.J. Anderson","CAR","RB",92
-"Marshawn Lynch","OAK","RB",93
-"Carlos Hyde","CLE","RB",94
-"Duke Johnson Jr.","CLE","RB",95
-"Marquise Goodwin","SF","WR",96
-"Sterling Shepard","NYG","WR",97
-"Trey Burton","CHI","TE",98
-"DeVante Parker","MIA","WR",99
-"Patrick Mahomes II","KC","QB",100
-"Isaiah Crowell","NYJ","RB",101
-"Nelson Agholor","PHI","WR",102
-"Philip Rivers","LAC","QB",103
-"Ben Roethlisberger","PIT","QB",104
-"Dez Bryant","DAL","WR",105
-"Matt Ryan","ATL","QB",106
-"Julian Edelman","NE","WR",107
-"Jordan Reed","WAS","TE",108
-"Bilal Powell","NYJ","RB",109
-"George Kittle","SF","TE",110
-"Kerryon Johnson","DET","RB",111
-"Theo Riddick","DET","RB",112
-"Jameis Winston","TB","QB",113
-"O.J. Howard","TB","TE",114
-"Kelvin Benjamin","BUF","WR",115
-"DeSean Jackson","TB","WR",116
-"Dak Prescott","DAL","QB",117
-"Rishard Matthews","TEN","WR",118
-"Marqise Lee","JAX","WR",119
-"Randall Cobb","GB","WR",120
-"Tyler Eifert","CIN","TE",121
-"David Njoku","CLE","TE",122
-"Jack Doyle","IND","TE",123
-"Nick Chubb","CLE","RB",124
-"Jamaal Williams","GB","RB",125
-"Andrew Luck","IND","QB",126
-"Marcus Mariota","TEN","QB",127
-"Jacksonville","JAX","DEF",128
-"Kenny Stills","MIA","WR",129
-"James White","NE","RB",130
-"Alex Smith","WAS","QB",131
-"Eric Ebron","IND","TE",132
-"Cameron Brate","TB","TE",133
-"Cameron Meredith","NO","WR",134
-"Philadelphia","PHI","DEF",135
-"Minnesota","MIN","DEF",136
-"Mohamed Sanu","ATL","WR",137
-"Josh Doctson","WAS","WR",138
-"Los Angeles","LAR","DEF",139
-"Anthony Miller","CHI","WR",140
-"Jordan Matthews","NE","WR",141
-"Ted Ginn Jr.","NO","WR",142
-"D.J. Moore","CAR","WR",143
-"Denver","DEN","DEF",144
-"LeGarrette Blount","DET","RB",145
-"Corey Clement","PHI","RB",146
-"Dede Westbrook","JAX","WR",147
-"D'Onta Foreman","HOU","RB",148
-"Ty Montgomery","GB","RB",149
-"Derek Carr","OAK","QB",150
-"Tyler Lockett","SEA","WR",151
-"Houston","HOU","DEF",152
-"Mitchell Trubisky","CHI","QB",153
-"Charles Clay","BUF","TE",154
-"Michael Gallup","DAL","WR",155
-"Los Angeles","LAC","DEF",156
-"Latavius Murray","MIN","RB",157
-"Kenny Golladay","DET","WR",158
-"Devontae Booker","DEN","RB",159
-"Stephen Gostkowski","NE","K",160
-"Greg Zuerlein","LAR","K",161
-"Jared Cook","OAK","TE",162
-"Justin Tucker","BAL","K",163
-"Blake Bortles","JAX","QB",164
-"DeMarco Murray","TEN","RB",165
-"Corey Coleman","BUF","WR",166
-"Tyrod Taylor","CLE","QB",167
-"Case Keenum","DEN","QB",168
-"Wayne Gallman","NYG","RB",169
-"Austin Hooper","ATL","TE",170
-"Eli Manning","NYG","QB",171
-"Samaje Perine","WAS","RB",172
-"Matt Bryant","ATL","K",173
-"Seattle","SEA","DEF",174
-"Andy Dalton","CIN","QB",175
-"Mike Williams","LAC","WR",176
-"Peyton Barber","TB","RB",177
-"Austin Seferian-Jenkins","JAX","TE",178
-"Baltimore","BAL","DEF",179
-"Doug Martin","OAK","RB",180
-"Danny Amendola","MIA","WR",181
-"Jonathan Stewart","NYG","RB",182
-"Giovani Bernard","CIN","RB",183
-"Benjamin Watson","NO","TE",184
-"Terrelle Pryor Sr.","NYJ","WR",185
-"Martavis Bryant","OAK","WR",186
-"Frank Gore","MIA","RB",187
-"Chris Carson","SEA","RB",188
-"Ameer Abdullah","DET","RB",189
-"Mike Wallace","PHI","WR",190
-"Paul Richardson Jr.","WAS","WR",191
-"Donte Moncrief","JAX","WR",192
-"Kansas City","KC","DEF",193
-"New England","NE","DEF",194
-"Calvin Ridley","ATL","WR",195
-"Mike Gesicki","MIA","TE",196
-"Dan Bailey","DAL","K",197
-"Tyrell Williams","LAC","WR",198
-"Courtland Sutton","DEN","WR",199
-"Chris Godwin","TB","WR",200
-"Vance McDonald","PIT","TE",201
-"Wil Lutz","NO","K",202
-"Matt Prater","DET","K",203
-"Carolina","CAR","DEF",204
-"Matt Breida","SF","RB",205
-"New Orleans","NO","DEF",206
-"Austin Ekeler","LAC","RB",207
-"Jermaine Kearse","NYJ","WR",208
-"Brice Butler","ARI","WR",209
-"Allen Hurns","DAL","WR",210
-"Spencer Ware","KC","RB",211
-"Ricky Seals-Jones","ARI","TE",212
-"Pittsburgh","PIT","DEF",213
-"Dante Pettis","SF","WR",214
-"Robert Turbin","IND","RB",215
-"Arizona","ARI","DEF",216
-"Christian Kirk","ARI","WR",217
-"Ryan Tannehill","MIA","QB",218
-"James Conner","PIT","RB",219
-"Jake Elliott","PHI","K",220
-"Jesse James","PIT","TE",221
-"Harrison Butker","KC","K",222
-"Robbie Gould","SF","K",223
-"Green Bay","GB","DEF",224
-"Chris Boswell","PIT","K",225
-"Keelan Cole","JAX","WR",226
-"Chicago","CHI","DEF",227
-"Jordan Wilkins","IND","RB",228
-"Adam Shaheen","CHI","TE",229
-"Atlanta","ATL","DEF",230
-"C.J. Fiedorowicz","HOU","TE",231
-"New York","NYG","DEF",232
-"Mason Crosby","GB","K",233
-"Kevin White","CHI","WR",234
-"Cincinnati","CIN","DEF",235
-"Gerald Everett","LAR","TE",236
-"Graham Gano","CAR","K",237
-"Vernon Davis","WAS","TE",238
-"Kai Forbath","MIN","K",239
-"Albert Wilson","MIA","WR",240
-"Josh McCown","NYJ","QB",241
-"Quincy Enunwa","NYJ","WR",242
-"Zay Jones","BUF","WR",243
-"Brandon McManus","DEN","K",244
-"Adam Vinatieri","IND","K",245
-"Tennessee","TEN","DEF",246
-"AJ McCarron","BUF","QB",247
-"Sam Bradford","ARI","QB",248
-"Ryan Succop","TEN","K",249
-"John Brown","BAL","WR",250
-"Daniel Carlson","MIN","K",251
-"De'Angelo Henderson","DEN","RB",252
-"Sam Darnold","NYJ","QB",253
-"Geronimo Allison","GB","WR",254
-"Joe Flacco","BAL","QB",255
-"Jake Butt","DEN","TE",256
-"Chris Ivory","BUF","RB",257
-"Kenneth Dixon","BAL","RB",258
-"John Ross","CIN","WR",259
-"Josh Lambo","JAX","K",260
-"San Francisco","SF","DEF",261
-"Hayden Hurst","BAL","TE",262
-"Ka'imi Fairbairn","HOU","K",263
-"T.J. Yeldon","JAX","RB",264
-"Rico Gathers","DAL","TE",265
-"Mike Davis","SEA","RB",266
-"Buffalo","BUF","DEF",267
-"Detroit","DET","DEF",268
-"Lamar Jackson","BAL","QB",269
-"Jason Witten","DAL","TE",270
-"Mike Gillislee","NE","RB",271
-"Zach Miller","CHI","TE",272
-"Orleans Darkwa","NYG","RB",273
-"Travis Benjamin","LAC","WR",274
-"Tyler Kroft","CIN","TE",275
-"Jason Myers","SEA","K",276
-"Julius Thomas","MIA","TE",277
-"Stephen Hauschka","BUF","K",278
-"Garrett Celek","SF","TE",279
-"Coby Fleener","NO","TE",280
-"Dustin Hopkins","WAS","K",281
-"Jeremy Maclin","BAL","WR",282
-"Brandon LaFell","CIN","WR",283
-"Javorius Allen","BAL","RB",284
-"Antonio Gates","LAC","TE",285
-"Rob Kelley","WAS","RB",286
-"Phil Dawson","ARI","K",287
-"Ryan Griffin","HOU","TE",288
-"Adrian Peterson","ARI","RB",289
-"Kendall Wright","MIN","WR",290
-"C.J. Beathard","SF","QB",291
-"Marcedes Lewis","GB","TE",292
-"Terrance West","NO","RB",293
-"Tavarres King","MIN","WR",294
-"J.J. Nelson","ARI","WR",295
-"Tampa Bay","TB","DEF",296
-"Dallas","DAL","DEF",297
-"Washington","WAS","DEF",298
-"Dontrelle Inman","CHI","WR",299
-"Chandler Catanzaro","TB","K",300
+"Player","Team","Pos","08/08","08/11","08/15","08/25","08/29","09/02"
+"Todd Gurley II","LAR","RB",2,1,1,1,1,1
+"Le'Veon Bell","PIT","RB",1,2,2,2,2,2
+"David Johnson","ARI","RB",4,3,3,3,3,3
+"Ezekiel Elliott","DAL","RB",5,5,4,4,4,4
+"Antonio Brown","PIT","WR",3,4,5,5,5,5
+"Alvin Kamara","NO","RB",7,8,7,8,7,6
+"Saquon Barkley","NYG","RB",11,7,6,6,6,7
+"DeAndre Hopkins","HOU","WR",6,6,8,7,8,8
+"Melvin Gordon","LAC","RB",15,14,13,12,10,9
+"Odell Beckham Jr.","NYG","WR",8,9,9,9,9,10
+"Julio Jones","ATL","WR",9,10,10,10,11,11
+"Leonard Fournette","JAX","RB",20,26,25,17,16,12
+"Kareem Hunt","KC","RB",10,11,11,15,13,13
+"Michael Thomas","NO","WR",12,12,12,11,12,14
+"Keenan Allen","LAC","WR",13,13,14,13,14,15
+"Davante Adams","GB","WR",14,15,15,14,15,16
+"A.J. Green","CIN","WR",16,16,16,16,17,17
+"Rob Gronkowski","NE","TE",21,18,19,19,20,18
+"Mike Evans","TB","WR",19,17,17,18,19,19
+"Travis Kelce","KC","TE",23,20,21,21,22,20
+"Tyreek Hill","KC","WR",26,25,27,26,27,21
+"Christian McCaffrey","CAR","RB",30,31,32,27,23,22
+"Devonta Freeman","ATL","RB",22,23,26,25,24,23
+"Dalvin Cook","MIN","RB",17,19,18,20,18,24
+"Stefon Diggs","MIN","WR",29,24,23,22,21,25
+"Jordan Howard","CHI","RB",31,28,28,30,29,26
+"Adam Thielen","MIN","WR",25,21,20,23,25,27
+"Larry Fitzgerald","ARI","WR",36,22,22,24,26,28
+"Zach Ertz","PHI","TE",28,30,29,29,31,29
+"T.Y. Hilton","IND","WR",40,27,24,28,30,30
+"JuJu Smith-Schuster","PIT","WR",42,42,37,38,34,31
+"Joe Mixon","CIN","RB",41,38,35,34,32,32
+"Amari Cooper","OAK","WR",38,33,33,31,33,33
+"Golden Tate","DET","WR",39,35,34,36,36,34
+"Aaron Rodgers","GB","QB",35,36,36,37,37,35
+"Kenyan Drake","MIA","RB",33,49,45,47,42,36
+"Doug Baldwin","SEA","WR",18,37,38,32,28,37
+"Jarvis Landry","CLE","WR",49,43,39,39,41,38
+"Demaryius Thomas","DEN","WR",37,32,31,35,38,39
+"Cam Newton","CAR","QB",64,44,42,41,39,40
+"Chris Hogan","NE","WR",75,69,67,42,46,41
+"Alex Collins","BAL","RB",47,45,46,40,40,42
+"Jay Ajayi","PHI","RB",50,48,47,46,47,43
+"Josh Gordon","CLE","WR",34,40,41,44,45,44
+"Derrick Henry","TEN","RB",54,51,49,45,43,45
+"LeSean McCoy","BUF","RB",24,56,54,51,50,46
+"Russell Wilson","SEA","QB",43,41,40,48,48,47
+"Lamar Miller","HOU","RB",59,60,58,56,54,48
+"Tom Brady","NE","QB",44,46,44,43,44,49
+"Deshaun Watson","HOU","QB",48,50,48,50,52,50
+"Drew Brees","NO","QB",60,54,53,53,53,51
+"Royce Freeman","DEN","RB",84,65,57,49,49,52
+"Allen Robinson II","CHI","WR",46,47,43,52,51,53
+"Corey Davis","TEN","WR",69,53,50,54,55,54
+"Jimmy Graham","GB","TE",66,63,66,55,56,55
+"Dion Lewis","TEN","RB",58,58,56,57,57,56
+"Marvin Jones Jr.","DET","WR",57,57,55,58,58,57
+"Marquise Goodwin","SF","WR",96,80,76,62,60,58
+"Evan Engram","NYG","TE",53,52,51,60,59,59
+"Rex Burkhead","NE","RB",70,61,60,63,62,60
+"Brandin Cooks","LAR","WR",52,55,52,61,61,61
+"Emmanuel Sanders","DEN","WR",86,76,73,71,68,62
+"Greg Olsen","CAR","TE",61,62,65,64,64,63
+"Matthew Stafford","DET","QB",80,72,70,67,65,64
+"Kirk Cousins","MIN","QB",76,73,71,68,67,65
+"Jamison Crowder","WAS","WR",73,66,62,66,66,66
+"Carlos Hyde","CLE","RB",94,109,107,77,71,67
+"Trey Burton","CHI","TE",98,86,86,70,69,68
+"Mark Ingram","NO","RB",55,59,61,59,63,69
+"Marshawn Lynch","OAK","RB",93,91,80,74,70,70
+"Philip Rivers","LAC","QB",103,87,87,80,75,71
+"Robert Woods","LAR","WR",56,68,63,75,73,73
+"Robby Anderson","NYJ","WR",89,70,69,76,77,74
+"Michael Crabtree","BAL","WR",63,64,64,72,74,75
+"Jimmy Garoppolo","SF","QB",68,84,84,83,84,76
+"Delanie Walker","TEN","TE",85,85,83,81,81,77
+"Cooper Kupp","LAR","WR",81,79,75,78,79,78
+"Kyle Rudolph","MIN","TE",83,81,82,79,82,79
+"Ben Roethlisberger","PIT","QB",104,88,88,86,87,80
+"Chris Carson","SEA","RB",188,118,115,87,83,81
+"Devin Funchess","CAR","WR",74,74,74,82,80,82
+"Will Fuller V","HOU","WR",79,82,81,84,85,83
+"Kerryon Johnson","DET","RB",111,105,77,65,76,84
+"Sammy Watkins","KC","WR",91,67,59,73,78,85
+"Tevin Coleman","ATL","RB",67,94,93,85,86,86
+"Patrick Mahomes II","KC","QB",100,97,97,92,89,87
+"Jamaal Williams","GB","RB",125,120,121,99,95,88
+"Matt Ryan","ATL","QB",106,95,98,93,92,89
+"Carson Wentz","PHI","QB",72,71,72,69,72,90
+"Pierre Garcon","SF","WR",71,75,79,88,88,91
+"Marcus Mariota","TEN","QB",127,96,99,94,91,92
+"David Njoku","CLE","TE",122,101,100,95,94,93
+"Jordan Reed","WAS","TE",108,100,101,96,96,94
+"Isaiah Crowell","NYJ","RB",101,83,85,89,97,95
+"Andrew Luck","IND","QB",126,99,95,90,90,96
+"Jared Goff","LAR","QB",87,102,102,102,102,97
+"Peyton Barber","TB","RB",177,149,124,103,100,98
+"George Kittle","SF","TE",110,103,104,98,98,99
+"Sony Michel","NE","RB",65,98,96,91,93,100
+"Jack Doyle","IND","TE",123,107,106,100,99,101
+"Alex Smith","WAS","QB",131,112,113,105,103,102
+"Duke Johnson Jr.","CLE","RB",95,111,110,108,107,103
+"Alshon Jeffery","PHI","WR",32,34,68,101,101,104
+"Chris Thompson","WAS","RB",82,115,116,118,116,105
+"O.J. Howard","TB","TE",114,108,108,107,106,106
+"Jordy Nelson","OAK","WR",90,92,91,110,108,107
+"Jacksonville","JAX","DEF",128,117,118,111,110,108
+"Adrian Peterson","WAS","RB",289,274,274,178,130,109
+"Tarik Cohen","CHI","RB",88,104,103,106,104,110
+"Dak Prescott","DAL","QB",117,124,122,117,112,111
+"Rashaad Penny","SEA","RB",51,77,78,109,109,112
+"Minnesota","MIN","DEF",136,121,120,113,111,113
+"Los Angeles","LAR","DEF",139,125,123,116,114,114
+"Nelson Agholor","PHI","WR",102,89,89,112,117,115
+"Aaron Jones","GB","RB",77,106,105,114,113,116
+"Sterling Shepard","NYG","WR",97,93,92,115,119,117
+"Blake Bortles","JAX","QB",164,132,132,119,115,118
+"Kenny Stills","MIA","WR",129,119,111,131,124,119
+"Los Angeles","LAC","DEF",156,134,133,122,120,120
+"Philadelphia","PHI","DEF",135,129,129,120,122,121
+"Tyler Eifert","CIN","TE",121,151,150,151,142,122
+"Houston","HOU","DEF",152,140,137,126,125,123
+"Ricky Seals-Jones","ARI","TE",212,155,152,139,137,124
+"Derek Carr","OAK","QB",150,133,134,124,127,125
+"Case Keenum","DEN","QB",168,143,140,129,131,126
+"Jared Cook","OAK","TE",162,139,138,130,129,127
+"C.J. Anderson","CAR","RB",92,90,94,97,118,128
+"Eli Manning","NYG","QB",171,136,135,127,128,129
+"Julian Edelman","NE","WR",107,116,117,123,121,130
+"Cameron Brate","TB","TE",133,128,127,121,123,131
+"Andy Dalton","CIN","QB",175,158,159,145,143,132
+"Stephen Gostkowski","NE","K",160,147,146,133,132,133
+"Greg Zuerlein","LAR","K",161,148,147,134,133,134
+"Ronald Jones II","TB","RB",62,78,90,104,105,135
+"Kenny Golladay","DET","WR",158,126,125,144,144,136
+"Denver","DEN","DEF",144,138,136,125,126,137
+"Justin Tucker","BAL","K",163,150,149,137,135,138
+"New Orleans","NO","DEF",206,179,161,152,152,139
+"Charles Clay","BUF","TE",154,141,139,135,134,140
+"Mitchell Trubisky","CHI","QB",153,145,145,140,138,141
+"Austin Seferian-Jenkins","JAX","TE",178,146,144,138,140,142
+"Mike Williams","LAC","WR",176,114,109,136,136,143
+"Keelan Cole","JAX","WR",226,203,202,218,147,144
+"Bilal Powell","NYJ","RB",109,180,195,181,153,145
+"Baltimore","BAL","DEF",179,159,162,148,145,146
+"Eric Ebron","IND","TE",132,153,154,149,146,147
+"Rishard Matthews","TEN","WR",118,142,141,153,154,148
+"Benjamin Watson","NO","TE",184,161,160,147,148,149
+"Tyler Lockett","SEA","WR",151,131,131,158,166,150
+"Matt Bryant","ATL","K",173,156,156,146,149,151
+"Matt Breida","SF","RB",205,206,207,200,203,152
+"Kelvin Benjamin","BUF","WR",115,113,112,142,158,153
+"Wil Lutz","NO","K",202,182,173,165,164,154
+"Latavius Murray","MIN","RB",157,209,198,196,193,155
+"Austin Hooper","ATL","TE",170,166,164,154,156,156
+"Jameis Winston","TB","QB",113,168,163,150,150,157
+"Tyrod Taylor","CLE","QB",167,170,167,160,157,158
+"Pittsburgh","PIT","DEF",213,181,175,162,162,159
+"Corey Clement","PHI","RB",146,193,194,193,181,160
+"Chicago","CHI","DEF",227,195,189,182,180,161
+"Marlon Mack","IND","RB",78,123,126,128,139,162
+"New England","NE","DEF",194,178,176,163,160,163
+"Jake Elliott","PHI","K",220,183,178,161,161,164
+"Michael Gallup","DAL","WR",155,164,157,171,176,165
+"Randall Cobb","GB","WR",120,122,119,132,151,166
+"Ryan Tannehill","MIA","QB",218,175,172,168,169,167
+"Atlanta","ATL","DEF",230,196,193,172,168,168
+"D.J. Moore","CAR","WR",143,162,114,157,163,169
+"Josh Doctson","WAS","WR",138,163,168,156,159,170
+"John Brown","BAL","WR",250,244,281,191,187,171
+"Chris Godwin","TB","WR",200,135,155,170,167,172
+"Vance McDonald","PIT","TE",201,172,174,169,170,173
+"Matt Prater","DET","K",203,184,179,166,165,174
+"Tyrell Williams","LAC","WR",198,204,192,183,174,175
+"Carolina","CAR","DEF",204,174,169,155,172,176
+"Jordan Wilkins","IND","RB",228,167,153,143,155,177
+"Cameron Meredith","NO","WR",134,127,128,185,179,178
+"Mike Gesicki","MIA","TE",196,187,171,164,171,179
+"Anthony Miller","CHI","WR",140,144,148,179,184,180
+"Green Bay","GB","DEF",224,198,197,180,173,181
+"Mike Wallace","PHI","WR",190,253,210,198,210,182
+"James White","NE","RB",130,202,201,199,186,183
+"Dede Westbrook","JAX","WR",147,169,183,203,178,184
+"Nick Chubb","CLE","RB",124,137,143,141,141,185
+"Chris Boswell","PIT","K",225,197,196,184,183,186
+"Giovani Bernard","CIN","RB",183,185,180,173,177,187
+"Harrison Butker","KC","K",222,192,188,176,175,188
+"Allen Hurns","DAL","WR",210,157,158,174,190,189
+"John Ross","CIN","WR",259,188,181,221,220,190
+"Arizona","ARI","DEF",216,200,200,194,188,191
+"Robbie Gould","SF","K",223,222,218,192,192,192
+"Jake Butt","DEN","TE",256,228,222,189,191,193
+"LeGarrette Blount","DET","RB",145,171,187,187,194,194
+"Mason Crosby","GB","K",233,207,206,195,195,195
+"Danny Amendola","MIA","WR",181,177,170,197,196,196
+"Quincy Enunwa","NYJ","WR",242,243,246,NA,NA,197
+"Ty Montgomery","GB","RB",149,165,165,167,189,198
+"Cincinnati","CIN","DEF",235,214,211,207,198,199
+"Graham Gano","CAR","K",237,215,214,202,204,200
+"Devontae Booker","DEN","RB",159,176,185,204,200,201
+"Mohamed Sanu","ATL","WR",137,154,166,205,202,202
+"DeSean Jackson","TB","WR",116,152,151,177,182,203
+"Paul Richardson Jr.","WAS","WR",191,205,205,201,201,204
+"Ryan Succop","TEN","K",249,225,223,208,206,205
+"DeVante Parker","MIA","WR",99,110,142,188,197,206
+"Joe Flacco","BAL","QB",255,229,227,212,212,207
+"New York","NYG","DEF",232,221,219,216,215,208
+"Calvin Ridley","ATL","WR",195,208,208,215,209,209
+"Brandon McManus","DEN","K",244,223,221,211,211,210
+"James Conner","PIT","RB",219,227,226,225,205,211
+"Antonio Gates","LAC","TE",285,213,213,214,213,212
+"Seattle","SEA","DEF",174,189,204,210,214,213
+"Theo Riddick","DET","RB",112,160,190,190,199,214
+"Chris Ivory","BUF","RB",257,210,209,209,217,215
+"Sam Darnold","NYJ","QB",253,242,243,223,224,216
+"Detroit","DET","DEF",268,240,241,252,219,217
+"Jonnu Smith","TEN","TE",NA,NA,NA,220,221,218
+"Hayden Hurst","BAL","TE",262,217,216,222,222,219
+"Spencer Ware","KC","RB",211,212,212,213,218,220
+"Sam Bradford","ARI","QB",248,239,242,227,228,221
+"Courtland Sutton","DEN","WR",199,194,191,237,237,222
+"Kansas City","KC","DEF",193,186,182,175,207,223
+"San Francisco","SF","DEF",261,250,251,247,247,224
+"Gerald Everett","LAR","TE",236,211,228,226,225,225
+"Washington","WAS","DEF",298,287,288,286,287,226
+"Geronimo Allison","GB","WR",254,NA,NA,NA,NA,227
+"Stephen Anderson","HOU","TE",NA,NA,NA,231,229,228
+"Vernon Davis","WAS","TE",238,230,230,224,223,229
+"Austin Ekeler","LAC","RB",207,216,215,217,227,231
+"Jesse James","PIT","TE",221,275,275,234,234,232
+"Ted Ginn Jr.","NO","WR",142,173,177,206,208,233
+"Taywan Taylor","TEN","WR",NA,NA,NA,245,245,234
+"Corey Grant","JAX","RB",NA,NA,NA,232,233,235
+"Daniel Carlson","MIN","K",251,236,235,236,236,236
+"Cleveland","CLE","DEF",NA,NA,NA,239,238,237
+"Adam Vinatieri","IND","K",245,231,231,242,242,240
+"Jeremy Hill","NE","RB",NA,NA,NA,249,NA,241
+"Ka'imi Fairbairn","HOU","K",263,246,247,246,246,242
+"Josh Lambo","JAX","K",260,249,250,248,248,243
+"Frank Gore","MIA","RB",187,252,253,250,250,245
+"Dez Bryant","DAL","WR",105,201,203,233,232,246
+"Jonathan Stewart","NYG","RB",182,254,254,251,251,247
+"Jason Witten","DAL","TE",270,255,255,253,252,248
+"Mike Gillislee","NE","RB",271,256,256,254,253,249
+"Josh McCown","NYJ","QB",241,241,239,228,244,250
+"Jermaine Kearse","NYJ","WR",208,224,257,255,254,251
+"Zach Miller","CHI","TE",272,257,258,256,255,252
+"Orleans Darkwa","NYG","RB",273,258,259,257,256,253
+"Travis Benjamin","LAC","WR",274,259,260,258,257,254
+"Tyler Kroft","CIN","TE",275,247,248,243,243,255
+"Jason Myers","NYJ","K",NA,NA,NA,259,258,256
+"Julius Thomas","MIA","TE",277,261,262,260,259,257
+"Doug Martin","OAK","RB",180,237,236,240,260,258
+"Stephen Hauschka","BUF","K",278,262,263,261,261,259
+"Garrett Celek","SF","TE",279,263,264,262,262,260
+"Coby Fleener","NO","TE",280,264,265,263,263,261
+"Albert Wilson","MIA","WR",240,265,266,264,264,262
+"Dustin Hopkins","WAS","K",281,266,267,265,265,263
+"Ameer Abdullah","DET","RB",189,267,268,266,266,264
+"Jeremy Maclin","BAL","WR",282,268,269,267,267,265
+"Javorius Allen","BAL","RB",284,270,271,268,268,266
+"Brandon LaFell","CIN","WR",283,269,270,269,269,267
+"Rob Kelley","WAS","RB",286,245,249,270,270,268
+"Adam Shaheen","CHI","TE",229,271,234,271,271,269
+"Phil Dawson","ARI","K",287,272,272,272,272,270
+"Ryan Griffin","HOU","TE",288,273,273,273,273,271
+"Donte Moncrief","JAX","WR",192,234,225,274,274,272
+"Corey Coleman","BUF","WR",166,220,229,235,235,273
+"Kendall Wright","MIN","WR",290,276,276,275,275,274
+"C.J. Beathard","SF","QB",291,277,277,276,276,275
+"Martavis Bryant","OAK","WR",186,278,278,277,277,276
+"Samaje Perine","WAS","RB",172,199,199,238,278,277
+"Marcedes Lewis","GB","TE",292,279,279,278,279,278
+"Terrance West","NO","RB",293,280,280,279,280,279
+"Tavarres King","MIN","WR",294,281,282,280,281,280
+"J.J. Nelson","ARI","WR",295,282,283,281,282,281
+"Tampa Bay","TB","DEF",296,283,284,282,283,282
+"Terrelle Pryor Sr.","NYJ","WR",185,284,285,283,284,283
+"T.J. Yeldon","JAX","RB",264,286,287,284,285,284
+"Dallas","DAL","DEF",297,285,286,285,286,285
+"Dontrelle Inman","CHI","WR",299,288,289,287,288,286
+"Chandler Catanzaro","TB","K",300,289,290,288,289,287
+"Adam Humphries","TB","WR",NA,NA,NA,289,290,288
+"Jaron Brown","SEA","WR",NA,NA,NA,290,291,289
+"Tennessee","TEN","DEF",246,226,224,230,230,290
+"Cole Beasley","DAL","WR",NA,NA,NA,291,292,291
+"Tion Green","IND","RB",NA,NA,NA,292,293,292
+"Jermaine Gresham","ARI","TE",NA,NA,NA,293,294,293
+"Buffalo","BUF","DEF",267,238,238,294,295,294
+"Ed Dickson","SEA","TE",NA,NA,NA,295,296,295
+"C.J. Fiedorowicz","HOU","TE",231,296,296,296,297,296
+"Blaine Gabbert","TEN","QB",NA,NA,NA,297,298,297
+"Kenny Britt","NE","WR",NA,NA,NA,298,299,298
+"Nick Folk","TB","K",NA,NA,NA,299,300,299
+"Ryan Grant","IND","WR",NA,NA,NA,219,226,300
+"AJ McCarron","BUF","QB",247,NA,NA,NA,NA,NA
+"Brice Butler","ARI","WR",209,NA,NA,NA,NA,NA
+"Christian Kirk","ARI","WR",217,NA,NA,229,NA,NA
+"D'Onta Foreman","HOU","RB",148,NA,NA,NA,NA,NA
+"Dan Bailey","DAL","K",197,190,184,186,185,NA
+"Dante Pettis","SF","WR",214,NA,NA,NA,NA,NA
+"De'Angelo Henderson","DEN","RB",252,NA,NA,NA,NA,NA
+"DeMarco Murray","TEN","RB",165,39,NA,NA,NA,NA
+"Derrius Guice","WAS","RB",45,NA,NA,NA,NA,NA
+"Jason Myers","SEA","K",276,260,261,NA,NA,NA
+"Jerick McKinnon","SF","RB",27,29,30,33,35,NA
+"Jordan Matthews","NE","WR",141,191,186,NA,NA,NA
+"Josh Allen","BUF","QB",NA,NA,NA,241,241,NA
+"Kai Forbath","MIN","K",239,219,217,NA,NA,NA
+"Kenneth Dixon","BAL","RB",258,NA,NA,NA,NA,NA
+"Kevin White","CHI","WR",234,NA,NA,NA,NA,NA
+"Lamar Jackson","BAL","QB",269,NA,NA,NA,NA,NA
+"Marqise Lee","JAX","WR",119,130,130,159,NA,NA
+"Mike Davis","SEA","RB",266,NA,NA,300,NA,NA
+"Nyheim Hines","IND","RB",NA,NA,NA,244,NA,NA
+"Rico Gathers","DAL","TE",265,235,NA,NA,NA,NA
+"Robert Turbin","IND","RB",215,NA,NA,NA,NA,NA
+"Wayne Gallman","NYG","RB",169,NA,NA,NA,NA,NA
+"Zay Jones","BUF","WR",243,NA,NA,NA,NA,NA
