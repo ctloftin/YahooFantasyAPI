@@ -1,5 +1,5 @@
 #' @export
-get_player_list <- function(gameid = "380", leagueid = NULL, numPlayers = 200) {
+get_player_list <- function(gameid = "390", leagueid = NULL, numPlayers = 200) {
   check_token()
 
   if(is.null(leagueid)) {
