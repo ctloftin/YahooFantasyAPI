@@ -16,6 +16,7 @@ get_all_game_info <- function(sport = NULL) {
     response <- XML::xmlToList(XML::xmlParse(response))
     response$.attrs <- NULL
     response$games$.attrs <- NULL
+    response$games[21]$game$is_live_draft_lobby_active <- NULL
     response <- as.data.frame(data.table::rbindlist(response$games))
     response$season <- as.integer(response$season)
     response <- response[order(-response$season),]

@@ -3,3 +3,4 @@
 .RData
 .Ruserdata
 yahoocreds.txt
+data/*
