@@ -39,7 +39,7 @@ get_token <- function(key = NULL, secret = NULL) {
 
   if(exists("fantasyEnv") == FALSE) {
     fantasyEnv <- new.env()
-    assign("fantasyEnv", fantasyEnv, envir = baseenv())
+    assign("fantasyEnv", fantasyEnv, envir = .GlobalEnv)
     rm(fantasyEnv)
   }
 

@@ -1,5 +1,5 @@
 #' @export
-update_yahoo_ranks <- function(gameid = "406", leagueid = NULL, numPlayers = 300) {
+update_yahoo_ranks <- function(gameid = "414", leagueid = NULL, numPlayers = 300) {
   check_token()
 
   plist <- get_player_list(gameid, leagueid, numPlayers)
@@ -25,7 +25,7 @@ update_yahoo_ranks <- function(gameid = "406", leagueid = NULL, numPlayers = 300
   ranks <- ranks[order(ranks[,ncol(ranks)]),]
   ranks$match <- ranks[,ncol(ranks)-1] == ranks[,ncol(ranks)]
 
-  if(FALSE %in% ranks$match & ncol(ranks) > 5) {
+  if(FALSE %in% ranks$match & ncol(ranks) > 5 | !file.exists("data/yahoo_ranks.csv")) {
     ranks$match <- NULL
 
     write.csv(ranks, file = "data/yahoo_ranks.csv", row.names = FALSE)
