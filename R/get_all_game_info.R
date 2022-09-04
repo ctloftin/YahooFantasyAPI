@@ -17,10 +17,11 @@ get_all_game_info <- function(sport = NULL) {
     response$.attrs <- NULL
     response$games$.attrs <- NULL
     response$games[21]$game$is_live_draft_lobby_active <- NULL
-    response <- as.data.frame(data.table::rbindlist(response$games))
+    response <- as.data.frame(data.table::rbindlist(response$games, fill = T))
     response$season <- as.integer(response$season)
     response <- response[order(-response$season),]
-    gamecodes <- rbind(gamecodes, response)
+    response$is_live_draft_lobby_active <- NULL
+    gamecodes <- rbind(gamecodes, response, fill = T)
   }
   return(gamecodes)
 }
